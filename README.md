@@ -1,5 +1,4 @@
-# stressed_sheep
-A pilot study
+# Stressed sheep during pregnancy pilot project: first data
 
 [Figure 1B: individual time courses of Vitamin D and cortisol fluctuations over time](https://exploratory.io/viz/ivC1vEA9IX/log-scale-VitD-Cortisol-by-AnimalID-tJa5EpW3PU?embed=true)
 
