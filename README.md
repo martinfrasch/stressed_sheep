@@ -7,3 +7,5 @@
 [Prediction model: Maternal Cortisol from maternal Vitamin D, sequential isolations and group](https://exploratory.io/viz/ivC1vEA9IX/Cortisol-linear-regression-by-group-Resid-upI0BJx8La?embed=true)
 
 Details in [preprint](https://arxiv.org/abs/1904.06377)
+
+[![DOI](https://zenodo.org/badge/180227080.svg)](https://zenodo.org/badge/latestdoi/180227080)
